@@ -1,7 +1,7 @@
 # Manual de Compra no Site Acer
 
 ## Passo 1: Acesse o site da Acer
-1. Abra o navegador e digite o seguinte endereço na barra de pesquisa: [www.br-store.acer.com](https://www.br-store.acer.com).
+1. Abra o navegador e digite o seguinte endereço na barra de pesquisa: [br-store.acer.com](https://br-store.acer.com).
 
 ## Passo 2: Buscar o item desejado
 1. Na parte superior do site, localize a barra de pesquisa com a frase “O que procura hoje?”.
